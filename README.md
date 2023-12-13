@@ -5,7 +5,7 @@
   - Adobe I/O Extensible CLI - https://github.com/adobe/aio-cli
 - Programming languages: Python, JavaScript
 - Technologies/tools: AWS (EC2, Lambda, etc.), Terraform, Terragrunt, Atlantis (Terraform pull request automation), Hashicorp Vault, Github Actions
-- Currently working on creating an API for a microservice testing pipeline for Adobe Marketplace extensions 
+- Currently working on an online master's degree in Computer Science at UT Austin
 <!---
 AmyJZhao/AmyJZhao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
